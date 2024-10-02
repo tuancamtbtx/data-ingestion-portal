@@ -78,6 +78,21 @@ export default defineConfig({
       redirect: '/central',
     },
     {
+      name: 'Data Management',
+      key: 'configuration',
+      icon: 'SettingOutlined',
+    },
+    {
+      name: 'Task Management',
+      key: 'configuration',
+      icon: 'SettingOutlined',
+    },
+    {
+      name: 'Configuration',
+      key: 'configuration',
+      icon: 'SettingOutlined',
+    },
+    {
       name: 'Configuration',
       key: 'configuration',
       icon: 'SettingOutlined',

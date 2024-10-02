@@ -6,7 +6,7 @@ export default {
         id: 1,
         display_name: 'Root',
         avatar: null,
-        email: 'tuan.nguyen3@trustingsocial.com',
+        email: 'nguyenvantuan140397@gmail.com',
         role: 1,
         phone: '0339999999',
         permissions: [],

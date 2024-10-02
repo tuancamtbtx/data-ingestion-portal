@@ -1,6 +1,6 @@
 {
   "private": true,
-  "author": "Nguyen Van Tuan[Tuca] <tuan.nguyen3@trustingsocial.com>",
+  "author": "Nguyen Van Tuan[Tuca] <nguyenvantuan140397@gmail.com>",
   "scripts": {
     "build": "max build",
     "dev": "max dev",
@@ -17,7 +17,7 @@
     "@ant-design/pro-components": "^2.6.5",
     "@react-oauth/google": "^0.12.1",
     "@types/express": "^4.17.21",
-    "@umijs/max": "^4.3.20",
+    "@umijs/max": "^4.3.24",
     "antd": "^5.6.5",
     "google-auth-library": "^9.14.1",
     "jwt-decode": "^4.0.0",

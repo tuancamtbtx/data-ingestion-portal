@@ -38,7 +38,6 @@ export async function getInitialState(): Promise<InitStateProps> {
 
 export const layout: RunTimeLayoutConfig = (initData) => {
   return {
-    logo: 'https://www.peakxv.com/wp-content/uploads/sites/2/2022/03/logo_trustingsocial.png',
     rightContentRender: (headerProps, dom, opts) => <RightContent {...opts} />,
     childrenRender: (children) => {
       return <WrapperAuth>{children}</WrapperAuth>;
